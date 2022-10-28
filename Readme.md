@@ -9,7 +9,7 @@ Project aims to create a Clarusway Web Page with Router.
 ## Project Skeleton
 
 ```
-003 - Clarusway Web Page with Router (folder)
+Web Page with Router (folder)
 |
 |----readme.md
 SOLUTION
@@ -45,7 +45,7 @@ SOLUTION
 
 ## Objective
 
-Build a Clarusway Web Page using ReactJS and react-router.
+Build a Web Page using ReactJS and react-router.
 
 ### At the end of the project, following topics are to be covered;
 
@@ -65,9 +65,9 @@ Build a Clarusway Web Page using ReactJS and react-router.
 
 ## Steps to Solution
 
-- Step 1: Create React App using `yarn create react-app clarusway-web-page-with-router` or `npx create-react-app clarusway-web-page-with-router`.
+- Step 1: Create React App using `yarn create react-app router_page` or `npx create-react-app router_page`.
 
-- Step 2: Build Clarusway Web Page using ReactJS, react-router and useHistory.
+- Step 2: Build Web Page using ReactJS, react-router and useHistory.
 
 - Step 3: Push your application into your own public repo on Github.
 
